@@ -3,4 +3,14 @@ layout:
 - go.kubebuilder.io/v3
 projectName: kubecon-tutorial
 repo: github.com/Alicey0719/kubecon-tutorial
+resources:
+- api:
+    crdVersion: v1
+    namespaced: true
+  controller: true
+  domain: k8s.alicey.dev
+  group: view
+  kind: MarkdownView
+  path: github.com/Alicey0719/kubecon-tutorial/api/v1
+  version: v1
 version: "3"
