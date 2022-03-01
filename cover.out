@@ -1,5 +1,6 @@
 mode: set
-github.com/Alicey0719/kubecon-tutorial/api/v1/markdownview_types.go:62.13,64.2 1 1
+github.com/Alicey0719/kubecon-tutorial/controllers/markdownview_controller.go:49.104,55.2 2 0
+github.com/Alicey0719/kubecon-tutorial/controllers/markdownview_controller.go:58.75,62.2 1 0
 github.com/Alicey0719/kubecon-tutorial/api/v1/markdownview_webhook.go:29.72,33.2 1 1
 github.com/Alicey0719/kubecon-tutorial/api/v1/markdownview_webhook.go:42.34,46.2 1 0
 github.com/Alicey0719/kubecon-tutorial/api/v1/markdownview_webhook.go:54.47,59.2 2 0
@@ -29,5 +30,4 @@ github.com/Alicey0719/kubecon-tutorial/api/v1/zz_generated.deepcopy.go:87.69,89.
 github.com/Alicey0719/kubecon-tutorial/api/v1/zz_generated.deepcopy.go:92.62,93.15 1 0
 github.com/Alicey0719/kubecon-tutorial/api/v1/zz_generated.deepcopy.go:96.2,98.12 3 0
 github.com/Alicey0719/kubecon-tutorial/api/v1/zz_generated.deepcopy.go:93.15,95.3 1 0
-github.com/Alicey0719/kubecon-tutorial/controllers/markdownview_controller.go:49.104,55.2 2 0
-github.com/Alicey0719/kubecon-tutorial/controllers/markdownview_controller.go:58.75,62.2 1 0
+github.com/Alicey0719/kubecon-tutorial/api/v1/markdownview_types.go:62.13,64.2 1 1
