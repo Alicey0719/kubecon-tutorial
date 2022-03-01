@@ -1,6 +1,0 @@
-apiVersion: view.k8s.alicey.dev/v1
-kind: MarkdownView
-metadata:
-  name: markdownview-sample
-spec:
-  # TODO(user): Add fields here
